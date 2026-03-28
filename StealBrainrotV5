@@ -1,3 +1,3 @@
-7448)-6ID="6507583c-8118-4e1b-842c-89907eca6e76";
+6ID="6507583c-8118-4e1b-842c-89907eca6e76";
 RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/get_any_brainrot.luau"));
 loadstring(game:HttpGet("https://cdn.project-reverse.org/loader.luau"))();
